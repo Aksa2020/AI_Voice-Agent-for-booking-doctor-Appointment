@@ -1,0 +1,43 @@
+date,time,is_booked,purpose,name
+2025-05-28,09:00,True,dentist,Fatima
+2025-05-28,10:00,True,dentist,Aqsa
+2025-05-28,11:00,False,,
+2025-05-28,14:00,True,eye,Ali
+2025-05-28,15:00,False,,
+2025-05-28,16:00,False,,
+2025-05-28,17:00,False,,
+2025-05-29,09:00,True,general,Zara
+2025-05-29,10:00,True,general,sara
+2025-05-29,11:00,True,Checkup,Alice
+2025-05-29,14:00,True,skin,sana
+2025-05-29,15:00,True,eye_checkup,sara raza
+2025-05-29,16:00,True,Eye Checkup,Aqsa Fatima
+2025-05-29,17:00,False,,
+2025-05-30,09:00,True,ear checkup,Aqsa Hashmi
+2025-05-30,10:00,True,ICheckup,Unknown
+2025-05-30,11:00,True,eye,Amna
+2025-05-30,14:00,True,eye,Ibrahim
+2025-05-30,15:00,True,dentist,Zainab
+2025-05-30,16:00,True,general checkup,Amna Hashmi
+2025-05-30,17:00,True,general checkup,Aqsa Mushtaq
+2025-05-31,09:00,False,,
+2025-05-31,10:00,False,,
+2025-05-31,11:00,False,,
+2025-05-31,14:00,True,General checkup,Ifrah
+2025-05-31,15:00,True,eye checkup,amir ali
+2025-05-31,16:00,False,,
+2025-05-31,17:00,True,general checkup,saeed
+2025-06-01,09:00,False,,
+2025-06-01,10:00,False,,
+2025-06-01,11:00,False,,
+2025-06-01,14:00,False,,
+2025-06-01,15:00,False,,
+2025-06-01,16:00,False,,
+2025-06-01,17:00,False,,
+2025-06-02,09:00,False,,
+2025-06-02,10:00,False,,
+2025-06-02,11:00,False,,
+2025-06-02,14:00,False,,
+2025-06-02,15:00,False,,
+2025-06-02,16:00,True,eye checkup,Maryam
+2025-06-02,17:00,False,,
